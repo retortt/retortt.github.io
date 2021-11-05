@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/11/05/ttt/</loc>
+    <loc>https://retortt.github.io/ttt/</loc>
     
     <lastmod>2021-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/11/04/hello-world/</loc>
+    <loc>https://retortt.github.io/hello-world/</loc>
     
     <lastmod>2021-11-04</lastmod>
     
@@ -17,7 +17,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://retortt.github.io/</loc>
     <lastmod>2021-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

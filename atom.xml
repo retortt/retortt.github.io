@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>title-test</title>
   
+  <subtitle>subtitle-test</subtitle>
+  <link href="https://retortt.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://retortt.github.io/"/>
   <updated>2021-11-05T02:44:49.283Z</updated>
-  <id>http://example.com/</id>
+  <id>https://retortt.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>author</name>
     
   </author>
   
@@ -18,19 +18,19 @@
   
   <entry>
     <title>ttt</title>
-    <link href="http://example.com/2021/11/05/ttt/"/>
-    <id>http://example.com/2021/11/05/ttt/</id>
+    <link href="https://retortt.github.io/ttt/"/>
+    <id>https://retortt.github.io/ttt/</id>
     <published>2021-11-05T02:35:43.000Z</published>
     <updated>2021-11-05T02:44:49.283Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="ttt%5Czjlg.jpg"></p><p>fenge———————————</p> <img src="/2021/11/05/ttt/zjlg.jpg" class="" title="[title]"> ]]></content>
+    <content type="html"><![CDATA[<p><img src="ttt%5Czjlg.jpg"></p><p>fenge———————————</p> <img src="/ttt/zjlg.jpg" class="" title="[title]"> ]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;&lt;img src=&quot;ttt%5Czjlg.jpg&quot;&gt;&lt;/p&gt;
 &lt;p&gt;fenge———————————&lt;/p&gt;
- &lt;img src=&quot;/2021/11/05/ttt/zjlg.jpg&quot; class=&quot;&quot; title=&quot;[title]&quot;&gt; </summary>
+ &lt;img src=&quot;/ttt/zjlg.jpg&quot; class=&quot;&quot; title=&quot;[title]&quot;&gt; </summary>
       
     
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/11/04/hello-world/"/>
-    <id>http://example.com/2021/11/04/hello-world/</id>
+    <link href="https://retortt.github.io/hello-world/"/>
+    <id>https://retortt.github.io/hello-world/</id>
     <published>2021-11-04T15:11:18.685Z</published>
     <updated>2021-11-04T15:11:18.685Z</updated>
     

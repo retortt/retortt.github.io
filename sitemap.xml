@@ -9,9 +9,23 @@
   </url>
   
   <url>
-    <loc>https://retortt.github.io/hello-world/</loc>
+    <loc>https://retortt.github.io/tags/index.html</loc>
     
-    <lastmod>2021-11-04</lastmod>
+    <lastmod>2021-11-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://retortt.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-11-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://retortt.github.io/link/index.html</loc>
+    
+    <lastmod>2021-11-05</lastmod>
     
   </url>
   

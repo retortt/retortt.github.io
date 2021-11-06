@@ -6,7 +6,7 @@
   <link href="https://retortt.github.io/atom.xml" rel="self"/>
   
   <link href="https://retortt.github.io/"/>
-  <updated>2021-11-06T09:45:55.068Z</updated>
+  <updated>2021-11-06T16:04:43.689Z</updated>
   <id>https://retortt.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片测试</title>
+    <link href="https://retortt.github.io/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <id>https://retortt.github.io/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-11-05T16:00:00.000Z</published>
+    <updated>2021-11-06T16:04:43.689Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>SM图床</strong></p><p><img src="https://i.loli.net/2021/11/06/Hys89cDIwvkMq3K.jpg" alt="SM图床"></p><p><strong>github本地</strong></p><p><img src="helloworld.jpg" alt="github本地"></p><p><strong>jsDelivr 加速</strong></p><p><img src="https://cdn.jsdelivr.net/gh/retortt/img@master/helloworld.jpg" alt="jsDelivr 加速"></p><p><strong>wallhaven原图</strong></p><p><img src="https://w.wallhaven.cc/full/wy/wallhaven-wy2klq.jpg" alt="wallhaven原图"></p>]]></content>
+    
+    
+    <summary type="html">测试图片加载速度</summary>
+    
+    
+    
+    <category term="测试" scheme="https://retortt.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

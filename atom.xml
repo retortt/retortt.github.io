@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>-Sanctuary-</title>
   
-  <subtitle>深海般的生活,是我心里的华北浪革。</subtitle>
+  <subtitle>深海般的生活，是我心里的华北浪革。</subtitle>
   <link href="https://retortt.github.io/atom.xml" rel="self"/>
   
   <link href="https://retortt.github.io/"/>
-  <updated>2021-11-06T02:18:07.109Z</updated>
+  <updated>2021-11-06T09:45:55.068Z</updated>
   <id>https://retortt.github.io/</id>
   
   <author>
@@ -17,43 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>abc</title>
-    <link href="https://retortt.github.io/abc/"/>
-    <id>https://retortt.github.io/abc/</id>
-    <published>2021-11-06T02:17:23.000Z</published>
-    <updated>2021-11-06T02:18:07.109Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://browser9.qhimg.com/bdm/1920_1080_80/t0191caa91e0c63c97f.jpg" alt="https插入图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://browser9.qhimg.com/bdm/1920_1080_80/t0191caa91e0c63c97f.jpg&quot; alt=&quot;https插入图片&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Title-1</title>
-    <link href="https://retortt.github.io/ttt/"/>
-    <id>https://retortt.github.io/ttt/</id>
+    <title>Hello World</title>
+    <link href="https://retortt.github.io/CCC/"/>
+    <id>https://retortt.github.io/CCC/</id>
     <published>2021-11-03T16:00:00.000Z</published>
-    <updated>2021-11-05T12:04:31.442Z</updated>
+    <updated>2021-11-06T09:45:55.068Z</updated>
     
-    <content type="html"><![CDATA[ <img src="/ttt/zjlg.jpg" class="" title="[title]"> ]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">cout &lt;&lt; <span class="string">&quot;Hello world&quot;</span> &lt;&lt; endl;</span><br><span class="line"></span><br><span class="line"><span class="built_in">system</span>(<span class="string">&quot;pause&quot;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     
-      
-      
-    <summary type="html"> &lt;img src=&quot;/ttt/zjlg.jpg&quot; class=&quot;&quot; title=&quot;[title]&quot;&gt; </summary>
-      
+    <summary type="html">使用C++输出 Hello World</summary>
     
     
     
+    <category term="C++" scheme="https://retortt.github.io/categories/C/"/>
+    
+    
+    <category term="C++" scheme="https://retortt.github.io/tags/C/"/>
     
   </entry>
   

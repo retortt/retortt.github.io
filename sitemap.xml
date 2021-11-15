@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://retortt.github.io/%E6%9C%9D%E9%97%BB%E9%81%93/</loc>
+    <loc>https://retortt.github.io/%E3%80%8A%E6%9C%9D%E9%97%BB%E9%81%93%E3%80%8B%EF%BC%88%E4%B8%8B%EF%BC%89/</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://retortt.github.io/%E3%80%8A%E6%9C%9D%E9%97%BB%E9%81%93%E3%80%8B%EF%BC%88%E4%B8%8A%EF%BC%89/</loc>
     
     <lastmod>2021-11-15</lastmod>
     
@@ -76,14 +83,14 @@
   </url>
   
   <url>
-    <loc>https://retortt.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://retortt.github.io/categories/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://retortt.github.io/categories/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/</loc>
+    <loc>https://retortt.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

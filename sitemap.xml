@@ -200,6 +200,20 @@
 
   
   <url>
+    <loc>https://retortt.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2022-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://retortt.github.io/tags/%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%88%923/</loc>
+    <lastmod>2022-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://retortt.github.io/tags/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2022-01-27</lastmod>
     <changefreq>daily</changefreq>
@@ -241,20 +255,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://retortt.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2022-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://retortt.github.io/tags/%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%88%923/</loc>
-    <lastmod>2022-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
@@ -265,14 +265,14 @@
   </url>
   
   <url>
-    <loc>https://retortt.github.io/categories/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/</loc>
+    <loc>https://retortt.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2022-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://retortt.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://retortt.github.io/categories/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2022-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

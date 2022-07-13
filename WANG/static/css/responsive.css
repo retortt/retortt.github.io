@@ -1,0 +1,663 @@
+﻿
+@media only screen and (min-width: 1600px){
+    .container {
+        max-width: 1200px;
+    }
+    .section-title .sub-title {
+        margin-bottom: 11px;
+    }
+    .section-title .title {
+        font-size: 56px;
+        line-height: 70px;
+        font-weight: 700;
+    }
+    .about-info {
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .about-area .about-info .single-progressbar {
+        margin-right: 40px;
+    }
+    .work-progress-area .single-work-progress .porgress-count {
+        margin-bottom: 27px;
+        font-size: 72px;
+    }
+    .lets-work-area .lets-work-title {
+        font-size: 140px;
+    }
+    .lets-work-area .lets-work-title span {
+        margin-left: 32px;
+    }
+    .lets-work-area {
+        padding: 120px 0 137px;
+    }
+    .single-testimonial .section-title {
+        margin-bottom: 50px;
+    }
+    .fun-facts-area .fun-fact-info {
+        padding: 50px 30px 50px 121px;
+    }
+    .fun-facts-area .feature-area .single-feature .feature-left {
+        margin-right: 28px;
+        flex: none;
+    }
+    .fun-facts-area .feature-area .single-feature .feature-left.ml-xl-12 {
+        margin-left: 12px;
+    } 
+    .contact-area .contact-left .section-title {
+        margin-bottom: 42px;
+    }
+    .contact-area .contact-details ul li .icon {
+        margin-right: 30px;
+    }
+    .contact-area .contact-details ul li h4 {
+        margin-bottom: 12px;
+    }
+    .contact-area .contact-details ul li p {
+        letter-spacing: 1px;
+    }
+    .contact-area .contact-details ul li {
+        padding: 39px 0 0;
+    }
+    .contact-area .contact-right {
+        margin-left: 50px;
+        padding: 80px 70px;
+    }
+    .contact-form .form-group {
+        margin-bottom: 20px;
+    }
+    .contact-form .form-btn {
+        margin-top: 10px;
+    }
+    .contact-form .form-btn .btn{
+        height: 60px;
+        padding: 0 39px;
+        font-size: 16px;
+        letter-spacing: 1px;
+    }
+    .blog-area .section-title {
+        margin-bottom: 58px;
+    }
+    .single-blog .blog-info {
+        padding: 34px 37px;
+    }
+    .single-blog .blog-thumbnail .catagory-name {
+        left: 38px;
+        padding: 8px 20px;
+    }
+    .single-blog .blog-thumbnail .blog-date {
+        right: 40px;
+    }
+    .footer-area .footer-top {
+        padding-top: 93px;
+    }
+    .footer-bottom .footer-social-media li {
+        margin-right: 22px;
+    }
+
+}
+
+@media only screen and (max-width: 1440px) {
+    .fun-facts-area .fun-fact-info {
+        padding: 50px 00px 50px 50px;
+    }
+    .fun-facts-area .section-title .title {
+        font-size: 38px;
+        line-height: initial;
+    }
+    .fun-facts-area .feature-area .single-feature .feature-left {
+        width: 90px;
+        flex: none;
+        height: 90px;
+    } 
+    .hero-banner-area {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .hero-banner-area .banner-text .banenr-title {
+        font-size: 58px;
+    }
+    .primary-btn {
+        padding: 10px 25px;
+    }
+    .home-2 .hero-banner-area {
+        padding: 250px 0 150px;
+    }
+    .lets-work-area .lets-work-title span {
+        margin-left: 20px;
+    }
+    .contact-area .contact-details ul li .icon {
+        height: 60px;
+        width: 60px;
+        line-height:60px;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1400px){
+    .home-2 .hero-banner-area {
+        padding: 250px 0 120px;
+    }      
+    .fun-facts-area .fun-fact-content {
+        margin-bottom: 30px;
+    }
+    .fun-facts-area .fun-fact-content p {
+        font-size: 16px;
+    }
+    .fun-facts-area .feature-area .single-feature .feature-left h2 {
+        font-size: 44px;
+    }
+    .banner-side-area {
+        right: -22.4%;
+    }
+    .lets-work-area .lets-work-title span {
+        margin-left: 16px;
+    }
+}
+@media only screen and (min-width: 769px) and (max-width: 1199px){
+    .blog-details-area .single-blog-list-item .blog-details .media {
+        display: block;
+    }
+    .blog-details-area .single-blog-list-item .blog-details .media .media-body {
+        margin-top: 20px;
+    }
+}
+@media all and (max-width: 1200px) {
+    .banner-side-area {
+        right: -29.8%;
+    }
+    .hero-banner-area {
+        padding: 300px 0 120px;
+    }
+    .work-progress-area .single-work-progress h3 {
+        font-size: 22px;
+    }
+    .work-progress-area .single-work-progress p {
+        font-size: 15px;
+    }
+    .fun-facts-area .fun-fact-info {
+        padding: 120px 50px;
+    }
+    .fun-facts-area .video-area img {
+        width: 100%;
+    }
+    .contact-area .contact-details ul li p {
+        line-height: inherit;
+    }
+    .single-experienced-wrap {
+        width: 100%;
+    }
+    .single-pricing-wrap .pricing-list li,
+    .bl-list-inner li {
+        display: flex;
+    }
+    .bl-list-inner li i {
+        flex: none;
+    }
+    .single-pricing-wrap {
+        padding: 60px 30px;
+    }
+    .single-blog-list-item .blog-details .blog-title h2 {
+        font-size: 28px;
+    }
+    .blog-author .blog-author-details h2 {
+        line-height: initial;
+        font-size: 24px;
+    }
+    .blog-author .thumb {
+        margin-right: 30px;
+    }
+    .single-blog-list-item .blog-details {
+        padding: 50px 30px 22px 30px;
+    }
+    .single-blog-list-item .blog-thumb .category {
+        left: 30px;
+    }
+    .single-blog-list-item .blog-thumb .author {
+        right: 30px;
+    }
+    .video-icon {
+        height: 160px;
+        width: 160px;
+        padding: 25px;
+    }
+    .video-icon .video-play-btn {
+        line-height: 110px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+@media all and (max-width: 991px) {
+    .header-area {
+        padding: 0;
+    }
+    .logo-wrapper {
+        width: 175px;
+        height: 85px;
+    }
+    .responsive-mobile-menu {
+        display: block;
+        width: 100%;
+    }
+    .nav-right-content,
+    .info-bar-inner .right-content .request-quote{
+        display: none;
+    }
+    .responsive-mobile-menu .navbar-toggler {
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        margin-top: -20px;
+        background-color: #fff;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        padding: 0 25px;
+        background: #fff;
+        margin-top: 0;
+    }
+    .responsive-mobile-menu {
+        position: relative;    
+    }
+    .navbar-area.nav-style-01 .nav-container {
+        padding: 0px;
+    }
+    .navbar-area {
+        background: transparent;
+    }
+    .hero-banner-area .banner-text .banenr-title {
+        font-size: 43px;
+        line-height: initial;
+        margin-bottom: 20px;
+    }
+    .banner-side-area ul li {
+        padding: 0 25px;
+    }
+    .banner-side-area {
+        right: -37.4%;
+    }
+    .section-title .title {
+        font-size: 40px;
+        line-height: initial;
+    }
+    .about-area .about-info {
+        margin-top: 40px;
+    }
+    .about-area .about-info p {
+        font-size: 16px;
+    }
+    .about-area .about-info .single-progressbar {
+        text-align: left;
+    }
+    .lets-work-area .lets-work-title span {
+        margin-left: 11px;
+    }
+    .lets-work-area {
+        padding: 100px 0;
+    }
+    .testimonial-area .testimonial-slide .owl-controls .owl-nav div {
+        position: inherit;
+        display: inline-block;
+        transform: inherit;
+        margin: 0 15px;
+        height: 40px;
+        line-height: 40px;
+        width: 40px;
+        font-size: 20px;
+    }
+    .testimonial-area .testimonial-slide .owl-controls .owl-nav {
+        text-align: center;
+        margin-top: 50px;
+    }
+    .brand-logo-area .brand-list .single-brand {
+        padding: 0 20px;
+    }
+    .contact-area .contact-right {
+        padding: 35px;
+    }
+    .contact-form .form-btn .btn {
+        width: 100%;
+    }
+    .breadcrumb-area .breadcrumb-inner .title::before {
+        left: 50%;
+        margin-left: -30px;
+    }
+    .about-area .section-title.pr-20 {
+        padding-right: 0;
+    }
+    .hero-banner-area.style-2 .banner-text {
+        padding: 0;
+    }
+    .hero-banner-area.style-2 .banner-text .banenr-title {
+        margin-bottom: 25px;
+        font-size: 39px;
+    }
+    .hero-banner-area.style-2 .banner-text .banner-content {
+        margin-bottom: 34px;
+        font-size: 16px;
+    }
+    .home-2 .hero-banner-area {
+        padding: 250px 0 120px;
+        background-position: -30px 85px;
+        background-size: 52% 70%;
+    }
+    .hero-banner-area {
+        padding: 300px 0 220px;
+    }
+    .banner-slider .slider-nav {
+        position: absolute;
+        right: 50%;
+        bottom: 20px;
+        transform: translate(50%, 0);
+    }
+    .bio-info.pl-50 {
+        padding-left: 0;
+        margin-bottom: -18px;
+    }
+    .single-progressbar .progress-item .progress-bg .progress-rate {
+        height: 55px !important;
+    }
+    .single-progressbar h4 {
+        font-size: 16px;
+        left: 25px;
+    }
+    .single-fact-wrap h2 {
+        font-size: 40px;
+        margin-bottom: 0px;
+    }
+    .single-team-wrap {
+        margin-top: 0;
+    }
+    .testimonial-area .single-testimonial {
+        padding: 31px 30px 40px 30px;
+    }
+    .testimonial-area .single-testimonial p {
+        font-size: 16px;
+    }
+    .footer-inner {
+        padding: 100px 0;
+    }
+    .skill-area {
+        padding-bottom: 80px;
+    }
+    .portfolio-inner {
+        margin: 0;
+    }
+    .portfolio-inner .portfolio-details-wrap {
+        box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
+        position: initial;
+    }
+    .portfolio-thumb {
+        padding-bottom: 50px;
+    }
+}
+
+/* Tablet Layout wide: 768px. */
+@media all and (max-width: 767px) {
+    .navbar-area .nav-container {
+        min-height:70px;
+    }
+    .logo-wrapper {
+        width: 150px;
+        height: 70px;
+    }
+    .contact-area .contact-right {
+        margin-top: 30px;
+    }
+    .brand-logo-area .brand-list .single-brand {
+        padding: 0 10px;
+    }
+    .single-testimonial .section-title .title {
+        font-size: 30px;
+    }
+    .hero-banner-area {
+        text-align: center;
+    }
+    .hero-banner-area .banner-text .banenr-subtitle::before {
+        left: 50%;
+        margin-left: -30px;
+    }
+    .hero-banner-area .overlay {
+        background: #000;
+        opacity: 0.88;
+    }
+    .hero-banner-area {
+        padding: 250px 0 220px;
+    }
+    .banner-side-area {
+        transform: inherit;
+        position: initial;
+        margin-top: 40px;
+    }
+    .section-title .title {
+        font-size: 35px;
+    }
+    .banner-side-area ul {
+        display: inline-block;
+    }
+    .banner-side-area ul li {
+        margin: 15px 0;
+    }
+    .banner-side-area ul li ul li {
+        display: inline-block;
+    }
+    .about-area .about-info {
+        padding: 0 20px;
+    }
+    .lets-work-area .lets-work-title {
+        font-size: 36px;
+        line-height: initial;
+    }
+    .fun-facts-area .video-area .video-play-btn {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+    }
+    .home-2 .hero-banner-area {
+        background-image: none !important;
+        background-color: #fff;
+    }
+    .pricing-tabs .nav-tabs .nav-item:first-child {
+        margin-left: 0;
+    }
+    .single-blog-list-item .blog-details .blog-title h2 {
+        font-size: 23px;
+    }
+    .single-blog-list-item .blog-details .blog-meta span {
+        margin-right: 20px;
+        padding-right: 16px;
+    }
+    .blog-details-area .single-blog-list-item .blog-details {
+        padding: 50px 30px;
+    }
+    .blog-details-area .single-blog-list-item .blog-details .media {
+        display: block;
+    }
+    .blog-details-area .single-blog-list-item .blog-details .media .media-body {
+        margin-top: 20px;
+    }
+    .widget ul li:first-child {
+        margin-left: 0;
+    }
+    .blog-author {
+        display: inline-block;
+    }
+    .blog-author .thumb {
+        margin-bottom: 20px;
+    }
+    .blog-author .blog-author-details p {
+        margin-bottom: 0;
+    }
+    .post-comments .latest-comments ul li .comments-avatar {
+        margin-bottom: 25px;
+    }
+    .post-comments .latest-comments ul li.ml-130 {
+        margin-left: 80px;
+    }
+    .post-comments .latest-comments ul li {
+        margin-top: 25px;
+    }
+    .contact-area .contact-left.ml-30 {
+        margin-left: 0;
+    }
+    .portfolio-inner .portfolio-details-wrap {
+        padding-bottom: 35px;
+    }
+    .portfolio-details-area p span {
+        display: none;
+    }
+    .portfolio-details-area blockquote {
+        padding: 30px 30px 19px !important;
+    }
+    .portfolio-details-area blockquote p {
+        font-size: 22px;
+    }
+}
+
+/* medium tablet layout 599px */
+
+@media only screen and (max-width: 599px){
+    .navbar-area .navbar-collapse {
+        margin: 0 0 0 15px;
+    }
+    .breadcrumb-area .breadcrumb-inner .title {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }
+    .single-testimonial .section-title .title {
+        font-size: 25px;
+    }
+    .service-area .more-work-btn {
+        transform: translateY(15px);
+    }
+    .fun-facts-area .video-area .video-play-btn {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .fun-facts-area .fun-fact-info {
+        padding: 120px 40px;
+    }
+    .fun-facts-area .feature-area .single-feature {
+        margin-bottom: 30px;
+    }
+    .fun-facts-area .fun-fact-info {
+        padding: 120px 40px 90px;
+    }
+    .responsive-mobile-menu .navbar-toggler {
+        right: 0px;
+    }
+    .fun-facts-area .section-title .title {
+        font-size: 32px;
+    }
+    .about-area .about-inner {
+        padding-left: 0;
+    }
+    .blog-details-area .single-blog-list-item .blog-details h3 {
+        line-height: initial;
+    }
+    .blog-details-area .single-blog-list-item .blog-details .blog-list-inner li {
+        display: flex;
+    }
+    .blog-details-area .single-blog-list-item .blog-details .blog-list-inner li i {
+        margin-top: 7px;
+    }
+    .blog-details-area .single-blog-list-item .blog-details blockquote {
+        padding: 30px 30px 25px;
+    }
+    .single-blog-list-item .blog-details .blog-meta span {
+        display: inline-block;
+        border: 0;
+        margin: 0;
+    }
+    .skill-area {
+        padding-left:20px;
+        padding-right: 20px;
+    }
+    .bio-info.pl-50 {
+        margin: 0 20px -18px;
+    }
+    .navbar-area .nav-container {
+        margin: 0 15px 0 0;
+    }
+    .footer-inner .footer-social-media li a {
+        height: 40px;
+        width: 40px;
+        line-height: 35px;
+        font-size: 14px;
+    }
+    .footer-inner {
+        padding: 70px 0;
+    }
+    .banner-slider .slider-nav {
+        transform: initial;
+        left: 30px;
+    }
+    .portfolio-inner .portfolio-details-wrap {
+        padding: 20px 30px 30px;
+    }
+    .portfolio-details-area blockquote {
+        display: inline-block;
+    }
+    .portfolio-details-area blockquote img {
+        margin: 0 auto 15px;
+        display: block;
+    }
+}
+
+/* mobile tablet layout 375px */
+
+@media only screen and (max-width: 384px) {
+    .breadcrumb-area .breadcrumb-inner .title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .section-title .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .post-comments .latest-comments ul li.ml-130 {
+        margin-left: 0;
+    }
+    .comment-form-area .comments-entry-form {
+        padding: 30px;
+    }
+    .blog-details-area .single-blog-list-item .blog-details blockquote p {
+        font-size: 20px;
+    }
+    .single-blog-list-item .blog-details .blog-title h2 {
+        font-size: 20px;
+    }
+    .blog-details-area .single-blog-list-item .blog-details h3 {
+        font-size: 20px;
+    }
+    .blog-author .blog-author-details h2 {
+        font-size: 20px;
+    }    
+}
+
+
+/* mobile tablet layout 360px */
+
+@media only screen and (max-width: 360px) {    
+    .post-comments .latest-comments ul li .comments-text .avatar-name .comment-reply-link {
+        float: inherit;
+        margin-top: 15px;
+    }
+    .contact-form .form-btn .btn {
+        padding: 15px 0;
+    }
+    .single-blog-list-item .blog-thumb .author,
+    .single-blog-list-item .blog-thumb .category {
+        position: initial;
+        margin: 15px 0;
+    }
+    .single-blog-list-item .blog-details {
+        padding: 30px 30px 22px 30px;
+    }
+    .single-blog-list-item .blog-thumb .video-play-btn {
+        top: 32%;
+    }
+
+}
+
+

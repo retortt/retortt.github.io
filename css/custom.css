@@ -1,0 +1,6 @@
+@font-face {
+    font-family:'biaoti';
+    /*src:url('https://fastly.jsdelivr.net/gh/retortt/img@master/ziti/isocteui.ttf'); *//* 修改成你的字体 */
+    src:url('https://cdn.jsdelivr.net/gh/retortt/img/ziti/isocteui.ttf'); /* 修改成你的字体 */
+    font-display:swap
+}

@@ -42,7 +42,7 @@ img{max-width:100%;}
     font-family: 'FZYT';
 	font-style: normal;
 	font-weight: 400;
-    src:url(../fonts/FZYTfontzipMin.TTF);
+    src:url(https://blogsanctuary.oss-cn-beijing.aliyuncs.com/hblg/font/FZYTfontzipMin.ttf);
 }
 body{
 	font-family:Arial, Helvetica, sans-serif;
@@ -436,7 +436,7 @@ ul.follow_icon li {
 	color:#0A3778;
 	font-size: 48px;
 	margin-bottom: 2px;
-	font-family: '方正姚体','RobotoRegular','Droid Sans', sans-serif;
+	font-family: 'FZYT','RobotoRegular','Droid Sans', sans-serif;
 }
 .span_1_of_about h3 {
 	color: #666;
@@ -478,7 +478,7 @@ ul.follow_icon li {
 	color:#333;
 	font-size: 24px;
 	margin-bottom: 10px;
-	font-family: '方正姚体','RobotoRegular','Droid Sans', sans-serif;
+	font-family: 'FZYT','RobotoRegular','Droid Sans', sans-serif;
 }
 .about-topgrid1 h4 {
 	height: 20px;

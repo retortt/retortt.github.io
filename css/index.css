@@ -1364,8 +1364,6 @@ input::placeholder {
   background: linear-gradient(45deg,#87CEEB,#F0FFFF);
   background-attachment: local;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1978,8 +1976,6 @@ blockquote footer cite:before {
   border-bottom-left-radius: 8px;
   background-color: #09c;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 @media screen and (max-width: 768px) {
@@ -3401,8 +3397,6 @@ blockquote footer cite:before {
   background: #09c;
   background-attachment: local;
   background-position: bottom;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 #footer:before {
@@ -3438,8 +3432,6 @@ blockquote footer cite:before {
   width: 100%;
   background-color: #09c;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: all 0.5s;

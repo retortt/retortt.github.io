@@ -44,6 +44,10 @@ img{max-width:100%;}
 	font-weight: 400;
     src:url(https://blogsanctuary.oss-cn-beijing.aliyuncs.com/hblg/font/FZYTfontzipMin.ttf);
 }
+.has-sub span{
+	font-family: 'SANC';
+}
+
 body{
 	font-family:Arial, Helvetica, sans-serif;
 	background-color: #F0F0F0;
@@ -431,7 +435,15 @@ ul.follow_icon li {
 }
 .span_1_of_about {
 	width: 100%;
+
 }
+
+.myflex {
+	width: 100%;
+	display: flex;
+	gap: 3%;
+}
+
 .span_1_of_about h2 {
 	color:#0A3778;
 	font-size: 48px;
@@ -444,17 +456,19 @@ ul.follow_icon li {
 	font-family: 'RobotoRegular','Droid Sans', sans-serif;
 }
 .about-img {
-	width: 30%;
-	float: right;
+	flex: 3;
+	/* width: 30%; */
+	/* float: right; */
 	margin-right: 2%;
 }
 .about-desc {
-	width: 68%;
-	float: left;
+	flex: 7;
+	/* width: 60%; */
+	/* float: left; */
 	margin-right: 0;
 }
 .about-desc p {
-
+	text-align: justify;
 	color: #333;
 	font-size: 16px;
 	line-height: 24px;
